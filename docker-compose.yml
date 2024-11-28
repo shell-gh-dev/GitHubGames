@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+version: '6'
+=======
 version: '3'
+>>>>>>> 62df50b84ad322cb748d466efbdfe654458169c0
 services:
   jekyll:
     image: 'jekyll/jekyll:3.8'
